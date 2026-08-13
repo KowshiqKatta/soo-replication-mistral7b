@@ -167,7 +167,6 @@ Read these before drawing conclusions.
 | `soo_replication.ipynb` | Full notebook |
 | `baseline_results.json` | Baseline run, 100 scenarios, all replies |
 | `soo_final_results.json` | Both fine-tuning runs, all replies, loss histories, probe measurements |
-| `soo_lora_tmpl/` | Trained LoRA adapter weights (chat-template run) |
 
 ---
 
